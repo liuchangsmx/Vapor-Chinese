@@ -10,7 +10,7 @@
    * [Xcode](getting_started/xcode.md)
    * [Slack](getting_started/slack.md)
 * [指南](guide.md)
-   * [目录结构](getting_started/folder_structure.md)
+   * [目录结构](guide/folder_structure.md)
    * [Application](guide/application.md)
    * [Routing](guide/routing.md)
    * [Views](guide/views.md)
